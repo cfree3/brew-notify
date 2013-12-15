@@ -9,14 +9,14 @@ I neither use nor like Caps Lock. In fact, I disable it in OS X and use
 [PCKeyboardHack][pckeyboardhack] so that it functions as an Escape key (for Vim purposes). That's
 great and all, but it leaves the Caps Lock on/off LED to disuse.
 
-Brew Notify is a simple utility that uses the Caps Lock LED to indicate whether there are any
+_Brew Notify_ is a simple utility that uses the Caps Lock LED to indicate whether there are any
 outdated [Homebrew][homebrew] packages.
 
 Dependencies
 ------------
 
-While the Brew Notify scripts can be adjusted to account for an alternative setup, they were written
-to accomodate the following environment.
+While the _Brew Notify_ scripts can be adjusted to account for an alternative setup, they were
+written to accomodate the following environment.
 
 * BASH-like `/bin/sh` (provided with OS X)
 * Homebrew installed to the default `/usr/local` location
@@ -59,7 +59,7 @@ launchctl load com.curtisfree.brew-notify.plist
 Running
 -------
 
-By default, Brew Notify is configured to run once every 12 hours. To run the job on demand:
+By default, _Brew Notify_ is configured to run once every 12 hours. To run the job on demand:
 
 ```shell
 launchctl start com.curtisfree.brew-notify
