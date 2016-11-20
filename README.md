@@ -77,19 +77,13 @@ Notes and resources
 
 License
 -------
-_Brew Notify_ is released under the [MIT][mit] license. Nothing special here.
+_Brew Notify_ is released under the MIT license (see `LICENSE.md`).
 
 DISCLAIMER
 ----------
 I give no assurance of this utility's security, and I do not guarantee that it will not zap your
 computer and fry your homedir. _Use at your own risk._
 
-Bugs
-----
-This is a "works-for-me-maybe" project: I do not guarantee that any bugfixing will occur.
-
 [pckeyboardhack]: https://pqrs.org/macosx/keyremap4macbook/pckeyboardhack.html.en
 [launchd_job]:    https://developer.apple.com/library/mac/documentation/MacOSX/Conceptual/BPSystemStartup/Chapters/CreatingLaunchdJobs.html
 [launchd_path]:   http://forums.macrumors.com/showthread.php?t=1207405
-[mit]:            http://www.tldrlegal.com/l/MIT
-
