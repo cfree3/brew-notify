@@ -23,9 +23,6 @@ written to accomodate the following environment.
 * Homebrew-installed Ruby
 * [MacLight][maclight] Ruby gem (`maclight`)
 
-[homebrew]: http://brew.sh
-[maclight]: https://github.com/busyloop/maclight
-
 Installing
 ----------
 
@@ -84,6 +81,8 @@ DISCLAIMER
 I give no assurance of this utility's security, and I do not guarantee that it will not zap your
 computer and fry your homedir. _Use at your own risk._
 
+[homebrew]:       http://brew.sh
+[maclight]:       https://github.com/busyloop/maclight
 [pckeyboardhack]: https://pqrs.org/macosx/keyremap4macbook/pckeyboardhack.html.en
 [launchd_job]:    https://developer.apple.com/library/mac/documentation/MacOSX/Conceptual/BPSystemStartup/Chapters/CreatingLaunchdJobs.html
 [launchd_path]:   http://forums.macrumors.com/showthread.php?t=1207405
