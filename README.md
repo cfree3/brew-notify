@@ -2,6 +2,8 @@ Brew Notify
 ===========
 Putting your Mac's Caps Lock LED to good use
 
+> *NOTE:* This repository is no longer maintained!
+
 What is it?
 -----------
 
